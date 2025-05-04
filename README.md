@@ -1,2 +1,2 @@
 # SeleniumLearnings
-Exploring Selenium from Basic to Advance as Automation webdriver tool.
+Exploring Selenium from Basic to Advance as a Automation webdriver tool.
